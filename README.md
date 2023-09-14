@@ -1,1 +1,1 @@
-Simple CGPA Calculator for IUB, NSU, AIUB, SEU, UIU & EWU.
+Simple GUI CGPA Calculator for IUB, NSU, AIUB, SEU, UIU & EWU.
